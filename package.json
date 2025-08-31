@@ -1,0 +1,13 @@
+{
+  "name": "2-backendpaletacolores",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Omar Mattos",
+  "license": "MIT",
+  "description": "Backend de la paleta de colores",
+  "type": "module"
+}
